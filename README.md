@@ -2,8 +2,8 @@
 FInal work description in  the [final_project_description.md](final_project_description.md) file.
 
 Student info:
-- Full name:
-- e-mail:
+- Full name: NORMAN CAMPANA
+- e-mail: norman.campana.c@uni.pe
 - Grupo: 
 
 ## Project Name: [Insert Your Project Title Here]
