@@ -1,0 +1,25 @@
+{
+    "n_samples": 20640,
+    "n_train": 16512,
+    "n_test": 4128,
+    "n_features": 8,
+    "feature_names": [
+        "MedInc",
+        "HouseAge",
+        "AveRooms",
+        "AveBedrms",
+        "Population",
+        "AveOccup",
+        "Latitude",
+        "Longitude"
+    ],
+    "target_name": "MedHouseVal",
+    "target_unit": "USD",
+    "target_min": 1499900000.0000002,
+    "target_max": 50000100000.0,
+    "target_mean": 20719469373.78876,
+    "target_median": 17985000000.0,
+    "scaler_type": "StandardScaler",
+    "target_scaled": false,
+    "timestamp": "2026-02-12T12:15:24.307268"
+}

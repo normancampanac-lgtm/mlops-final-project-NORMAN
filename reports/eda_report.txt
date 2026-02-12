@@ -1,0 +1,40 @@
+============================================================
+REPORTE DE ANÁLISIS EXPLORATORIO DE DATOS
+============================================================
+
+PROYECTO: mlops-final-project_1
+DATASET: California Housing
+FECHA: 2026-02-10 11:20:58
+
+1. RESUMEN DEL DATASET:
+   • Muestras totales: 20,640
+   • Características: 8
+   • Variable objetivo: MedHouseVal (precio en $)
+
+2. CALIDAD DE DATOS:
+   • Valores nulos: 0
+   • Duplicados: 0
+   • Tipos de datos: Todos numéricos
+
+3. CORRELACIONES CON EL PRECIO:
+   • MedInc: 0.688
+   • AveRooms: 0.152
+   • Latitude: 0.144
+   • HouseAge: 0.106
+   • AveBedrms: 0.047
+   • Longitude: 0.046
+   • Population: 0.025
+   • AveOccup: 0.024
+
+4. OUTLIERS DETECTADOS:
+   • MedInc: 681 (3.30%)
+   • AveRooms: 511 (2.48%)
+   • AveBedrms: 1424 (6.90%)
+   • Population: 1196 (5.79%)
+   • AveOccup: 711 (3.44%)
+
+5. GRÁFICOS GENERADOS:
+   • distribuciones_caracteristicas.png
+   • matriz_correlacion.png
+   • relaciones_precio.png
+   • analisis_geografico.png

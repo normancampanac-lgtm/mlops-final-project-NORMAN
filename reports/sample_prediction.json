@@ -1,0 +1,17 @@
+{
+    "prediction_hundreds": 0.41999006114418413,
+    "prediction_usd": 41999.006114418415,
+    "prediction_formatted": "$41,999.01",
+    "features": {
+        "MedInc": 5.0,
+        "HouseAge": 30.0,
+        "AveRooms": 6.0,
+        "AveBedrms": 1.0,
+        "Population": 1000.0,
+        "AveOccup": 3.0,
+        "Latitude": 34.0,
+        "Longitude": -118.0
+    },
+    "timestamp": "2026-02-12T12:36:01.969414",
+    "author": "Norman Campana"
+}

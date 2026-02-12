@@ -1,0 +1,1 @@
+bash setup_project.shn

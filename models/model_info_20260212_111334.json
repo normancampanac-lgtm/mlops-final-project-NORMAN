@@ -1,0 +1,21 @@
+{
+    "model_name": "RandomForestRegressor",
+    "timestamp": "20260212_111334",
+    "metrics": {
+        "mse": 0.1973657258228046,
+        "rmse": 0.44425862492787305,
+        "mae": 0.3132916606167381,
+        "r2": 0.8024077642001091
+    },
+    "feature_names": [
+        "MedInc",
+        "HouseAge",
+        "AveRooms",
+        "AveBedrms",
+        "Population",
+        "AveOccup",
+        "Latitude",
+        "Longitude"
+    ],
+    "model_path": "models\\random_forest_20260212_111334.joblib"
+}
